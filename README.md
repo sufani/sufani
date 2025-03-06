@@ -1,6 +1,9 @@
 # Hello, I'm Sufani
+
+<img src="https://your-image-link.com/image.png" width="150" height="150" />
+
 <a href="https://linkedin.com/in/sufaniwolde/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="60"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="40"/>
 </a>
 
 ### Cybersecurity Analyst | Security Operations Center (SOC) Analyst | Linux System Administrator
