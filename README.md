@@ -1,7 +1,14 @@
 # Hello, I'm Sufani
-<a href="https://linkedin.com/in/sufaniwolde"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Cybersecurity Analyst | Security Operations Center (SOC) Analyst | Linux System Administrator
+<a href="https://linkedin.com/in/sufaniwolde/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="60"/>
+</a>
+
+<h1 style="font-size: 32px; font-weight: bold; text-align: center;">
+  Cybersecurity Specialist | SOC Analyst | Linux System Administrator
+</h1>
+
+I'm a Cybersecurity Analyst with a focus on incident detection and response. I work with tools like Splunk and Elastic Stack, and I'm passionate about automating security processes to make systems safer and more efficient. My goal is to stay ahead of emerging threats and continuously improve how we protect and respond to security incidents.
 
 ## 👨‍💻 Projects
 
@@ -13,55 +20,59 @@
 ## 🪪 Certifications
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://i.imgur.com/RcOn9A0.jpg" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/Security+.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Certificate" />
   </a>
 
-  <a href="https://i.imgur.com/Lc1GNul.jpg" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/Network+.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+ Certificate" />
   </a>
 
-  <a href="https://i.imgur.com/etiSoDH.jpg" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/RHCSA.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-RHCSA-4D4D4D?&style=for-the-badge&logo=RedHat&logoColor=red" alt="RHCSA Certificate" />
   </a>
 
-  <a href="https://i.imgur.com/jFpBuCm.jpg" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/GoogleCyberSecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
   </a>
 
-<a href="https://i.imgur.com/KiBKRg0.png" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-SOC%20Analyst%20%7C%20Lets%20Defend-1D75A1?&style=for-the-badge&logo=Linux&logoColor=white" alt="Lets Defend Certificate" />
-</a>
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/LetsDefendSocAnalyst.png?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-SOC%20Analyst%20%7C%20Lets%20Defend-1D75A1?&style=for-the-badge&logo=Linux&logoColor=white" alt="Lets Defend Certificate" />
+  </a>
 
-<a href="https://i.imgur.com/SFYu6f7.png" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LabEx%20Cybersecurity-003366?&style=for-the-badge&logo=Linux&logoColor=white" alt="LabEx Cybersecurity Certificate" />
-</a>
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/LabExCybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LabEx%20Cybersecurity-003366?&style=for-the-badge&logo=Linux&logoColor=white" alt="LabEx Cybersecurity Certificate" />
+  </a>
 
-<a href="https://i.imgur.com/nudEvbZ.png" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LabEx%20Linux-003366?&style=for-the-badge&logo=Linux&logoColor=white" alt="LabEx Linux Certificate" />
-</a>
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/LabExLinux.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LabEx%20Linux-003366?&style=for-the-badge&logo=Linux&logoColor=white" alt="LabEx Linux Certificate" />
+  </a>
+</div>
 
 ## 💻 Job Simulations
 
-<a href="https://i.imgur.com/aKl67C1.jpg" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity%20Virtual%20Experience%20Program-FF5F00?&style=for-the-badge&logo=Mastercard&logoColor=white" alt="Mastercard Cybersecurity Certificate" />
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/MastercardCybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity%20Virtual%20Experience%20Program-FF5F00?&style=for-the-badge&logo=Mastercard&logoColor=white" alt="Mastercard Cybersecurity Certificate" />
+  </a>
 
-<a href="https://i.imgur.com/1M3jaT2.jpg" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Tata%20Cybersecurity%20Security%20Analyst%20Job%20Simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" alt="Tata Cybersecurity Certificate" />
-</a>
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/TataCybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Tata%20Cybersecurity%20Security%20Analyst%20Job%20Simulation-000080?&style=for-the-badge&logo=Tata&logoColor=white" alt="Tata Cybersecurity Certificate" />
+  </a>
 
-<a href="https://i.imgur.com/FrreJKs.jpg" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-AIG%20Shields%20Up%20Cybersecurity%20Virtual%20Experience-003366?&style=for-the-badge&logo=AIG&logoColor=white" alt="AIG Cybersecurity Certificate" />
-</a>
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/AIG%20Cybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-AIG%20Cybersecurity-003366?&style=for-the-badge&logo=AIG&logoColor=white" alt="AIG Cybersecurity Certificate" />
+  </a>
 
-<a href="https://i.imgur.com/mpZZL1k.jpg" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-ANZ%20Australia%20Cyber%20Security%20Management-009CDE?&style=for-the-badge&logo=ANZ&logoColor=white" alt="ANZ Cybersecurity Certificate" />
-</a>
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/ANZ%20Cybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-ANZ%20Australia%20Cybersecurity%20Management-009CDE?&style=for-the-badge&logo=ANZ&logoColor=white" alt="ANZ Cybersecurity Certificate" />
+  </a>
+  
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/TelestraCybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Telstra%20Cybersecurity%20Job%20Simulation-003F87?&style=for-the-badge&logo=Telstra&logoColor=white" alt="Telstra Cybersecurity Job Simulation" />
+  </a>
 
-<a href="https://i.imgur.com/PExlzcW.jpg" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Telstra%20Malware%20Response%20%26%20Mitigation-003F87?&style=for-the-badge&logo=Telstra&logoColor=white" alt="Telstra Malware Response Certificate" />
-</a>
+
 
 ## 🛠️ Tools
 
