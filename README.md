@@ -12,10 +12,10 @@ I'm a Cybersecurity Analyst with a focus on incident detection and response. I w
 
 ## 👨‍💻 Projects
 
-  - [End-to-End cybersecuirty monitoring and Incident Response with ELK Stack, Mythic C2, Elastic Defend, and oSTicket](https://github.com)
+  - [End-to-End Cybersecurity Monitoring and Incident Response](https://github.com)
   - [SOAR EDR Automation for Threat Detection and Response](https://github.com)
   - [Security Operations Automation with Wazuh, TheHive, and Shuffle](https://github.com)
- - [Virutalized Secure Network with Splunk, Sysmon, and Active Directory](https://github.com)
+  - [Virutalized Secure Network with Splunk, Sysmon, and Active Directory](https://github.com)
 
 ## 🪪 Certifications
 
