@@ -12,10 +12,10 @@ I am a Cybersecurity Analyst focused on incident detection and response. I work 
 
 ## 👨‍💻 Projects
 
-  - [End-to-End Cybersecurity Monitoring and Incident Response](https://github.com)
-  - [SOAR EDR Automation for Threat Detection and Response](https://github.com)
-  - [Security Operations Automation with Wazuh, TheHive, and Shuffle](https://github.com)
-  - [Virtualized Secure Network with Splunk and Active Directory](https://github.com)
+  - [End-to-End Cybersecurity Monitoring and Incident Response](https://github.com/sufani/End-to-End-Cybersecurity-Monitoring-and-Incident-Response)
+  - [SOAR EDR Automation for Threat Detection and Response](https://github.com/sufani/SOAR-EDR-Automation-for-Threat-Detection-and-Response)
+  - [Security Operations Automation with Wazuh, TheHive, and Shuffle](https://github.com/sufani/Security-Operations-Automation-with-Wazuh-TheHive-and-Shuffle)
+  - [Virtualized Secure Network with Splunk and Active Directory](https://github.com/sufani/Virutalized-Secure-Network-with-Splunk-and-Active-Directory)
 
 ## 🪪 Certifications
 
@@ -91,17 +91,19 @@ I am a Cybersecurity Analyst focused on incident detection and response. I work 
 
 | **Skill**                                           | **Associated Project**                                    |
 |-----------------------------------------------------|-----------------------------------------------------------|
-| **SIEM Configuration and Log Analysis**             | SOC Challenge                                              |
-| **Network Traffic Analysis & Threat Detection**     | Active Directory Project                                   |
-| **Security Orchestration & Automation**             | SOAR EDR Automation                                        |
-| **Incident Response Automation**                    | SOAR EDR Automation Project                                |
-| **Threat Intelligence Analysis**                    | SOC Challenge                                              |
-| **SOC Operations & Case Management**                | SOC Automation Project                                     |
-| **Cloud Infrastructure & Virtualization Setup**     | SOC Challenge                                              |
-| **Automation of Threat Mitigation**                 | SOAR EDR Automation Project                                |
-| **Security Incident Documentation**                 | SOC Challenge                                              |
-| **Active Directory & Network Security**             | Active Directory Project                                   |
-| **Identity and Access Management (IAM)**            | TATA Cybersecurity Job Simulation                          |
-| **Cybersecurity Threat Analysis**                   | AIG Cybersecurity Job Simulation                           |
-| **Packet Capture and Threat Investigation**         | ANZ Cybersecurity Job Simulation                           |
-| **Vulnerability Management & Remediation**          | AIG Cybersecurity Job Simulation                           |
+| **SIEM Configuration and Log Analysis**             | [Security Monitoring and Incident Response](https://github.com/sufani/End-to-End-Cybersecurity-Monitoring-and-Incident-Response)  |
+| **Network Traffic Analysis & Threat Detection**     | [Secure Network With Splunk/Active Directory](https://github.com/sufani/Virutalized-Secure-Network-with-Splunk-and-Active-Directory)            |
+| **Security Orchestration & Automation**             | [SOAR EDR Automation Project](https://github.com/sufani/SOAR-EDR-Automation-for-Threat-Detection-and-Response)                                |
+| **Incident Response Automation**                    | [SOAR EDR Automation Project](https://github.com/sufani/SOAR-EDR-Automation-for-Threat-Detection-and-Response)                                |
+| **Threat Intelligence Analysis**                    | [Security Monitoring and Incident Response](https://github.com/sufani/End-to-End-Cybersecurity-Monitoring-and-Incident-Response)                  |
+| **SOC Operations & Case Management**                | [Security Operations Automation Project](https://github.com/sufani/Security-Operations-Automation-with-Wazuh-TheHive-and-Shuffle)                     |
+| **Cloud Infrastructure & Virtualization Setup**     | [Security Monitoring and Incident Response](https://github.com/sufani/End-to-End-Cybersecurity-Monitoring-and-Incident-Response)                  |
+| **Automation of Threat Mitigation**                 | [SOAR EDR Automation Project](https://github.com/sufani/SOAR-EDR-Automation-for-Threat-Detection-and-Response)                                |
+| **Security Incident Documentation**                 | [Security Monitoring and Incident Response](https://github.com/sufani/End-to-End-Cybersecurity-Monitoring-and-Incident-Response)                  |
+| **Active Directory & Network Security**             | [Secure Network With Splunk/Active Directory](https://github.com/sufani/Virutalized-Secure-Network-with-Splunk-and-Active-Directory)            |
+| **Identity and Access Management (IAM)**            | [TATA Cybersecurity Job Simulation](https://github.com/sufani/sufani/blob/main/images/certificates/TataCybersecurity.jpeg?raw=true)                          |
+| **Cybersecurity Threat Analysis**                   | [AIG Cybersecurity Job Simulation](https://github.com/sufani/sufani/blob/main/images/certificates/AIG%20Cybersecurity.jpeg?raw=true)                           |
+| **Packet Capture and Threat Investigation**         | [ANZ Cybersecurity Job Simulation](https://github.com/sufani/sufani/blob/main/images/certificates/ANZ%20Cybersecurity.jpeg?raw=true)                           |
+| **Vulnerability Management & Remediation**          | [AIG Cybersecurity Job Simulation](https://github.com/sufani/sufani/blob/main/images/certificates/AIG%20Cybersecurity.jpeg?raw=true)                           |
+| **Phishing Simulation Design & Interpretation**     | [Mastercard Cybersecurity Job Simulation](https://github.com/sufani/sufani/blob/main/images/certificates/MastercardCybersecurity.jpeg?raw=true)                    
+
