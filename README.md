@@ -15,7 +15,7 @@ I'm a Cybersecurity Analyst with a focus on incident detection and response. I w
   - [End-to-End Cybersecurity Monitoring and Incident Response](https://github.com)
   - [SOAR EDR Automation for Threat Detection and Response](https://github.com)
   - [Security Operations Automation with Wazuh, TheHive, and Shuffle](https://github.com)
-  - [Virutalized Secure Network with Splunk, Sysmon, and Active Directory](https://github.com)
+  - [Virtualized Secure Network with Splunk, Sysmon, and Active Directory](https://github.com)
 
 ## 🪪 Certifications
 
