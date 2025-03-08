@@ -8,14 +8,14 @@
   Cybersecurity Specialist | SOC Analyst | Linux System Administrator
 </h1>
 
-I'm a Cybersecurity Analyst with a focus on incident detection and response. I work with tools like Splunk and Elastic Stack, and I'm passionate about automating security processes to make systems safer and more efficient. My goal is to stay ahead of emerging threats and continuously improve how we protect and respond to security incidents.
+I am a Cybersecurity Analyst focused on incident detection and response. I work with tools like Splunk and Elastic Stack, and I'm passionate about automating security processes to improve system safety and efficiency. My goal is to stay ahead of emerging threats while continuously improving security operations and incident response.
 
 ## 👨‍💻 Projects
 
   - [End-to-End Cybersecurity Monitoring and Incident Response](https://github.com)
   - [SOAR EDR Automation for Threat Detection and Response](https://github.com)
   - [Security Operations Automation with Wazuh, TheHive, and Shuffle](https://github.com)
-  - [Virtualized Secure Network with Splunk, Sysmon, and Active Directory](https://github.com)
+  - [Virtualized Secure Network with Splunk and Active Directory](https://github.com)
 
 ## 🪪 Certifications
 
@@ -71,8 +71,7 @@ I'm a Cybersecurity Analyst with a focus on incident detection and response. I w
   <a href="https://github.com/sufani/sufani/blob/main/images/certificates/TelestraCybersecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Telstra%20Cybersecurity%20Job%20Simulation-003F87?&style=for-the-badge&logo=Telstra&logoColor=white" alt="Telstra Cybersecurity Job Simulation" />
   </a>
-
-
+</div>
 
 ## 🛠️ Tools
 
@@ -87,7 +86,6 @@ I'm a Cybersecurity Analyst with a focus on incident detection and response. I w
 **Threat Intel**: <img src="https://img.shields.io/badge/-VirusTotal-5C5C5C?&style=for-the-badge&logo=VirusTotal&logoColor=white" /> <img src="https://img.shields.io/badge/-AnyRun-001A72?&style=for-the-badge&logo=AnyRun&logoColor=white" /> <img src="https://img.shields.io/badge/-Shodan-FF5500?&style=for-the-badge&logo=Shodan&logoColor=white" /> <img src="https://img.shields.io/badge/-Atomic_Red_Team-EE1C25?&style=for-the-badge&logo=AtomicRedTeam&logoColor=white" />
 
 **Other**: <img src="https://img.shields.io/badge/-Vultr-002A4A?&style=for-the-badge&logo=Vultr&logoColor=white" /> <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Procmon-4B275F?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Mythic_C2-FF3B30?&style=for-the-badge&logo=Mythic&logoColor=white" />
-
 
 ## 🦾 Skills
 
@@ -107,4 +105,3 @@ I'm a Cybersecurity Analyst with a focus on incident detection and response. I w
 | **Cybersecurity Threat Analysis**                   | AIG Cybersecurity Job Simulation                           |
 | **Packet Capture and Threat Investigation**         | ANZ Cybersecurity Job Simulation                           |
 | **Vulnerability Management & Remediation**          | AIG Cybersecurity Job Simulation                           |
-
