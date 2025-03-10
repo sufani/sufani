@@ -28,10 +28,10 @@ I am a Cybersecurity Analyst focused on incident detection and response. I work 
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+ Certificate" />
   </a>
 
-  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/RHCSA.jpeg?raw=true" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/sufani/sufani/blob/main/images/certificates/REDHAT%20(RHCSA)%20Certificate.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-RHCSA-4D4D4D?&style=for-the-badge&logo=RedHat&logoColor=red" alt="RHCSA Certificate" />
   </a>
-
+  
   <a href="https://github.com/sufani/sufani/blob/main/images/certificates/GoogleCyberSecurity.jpeg?raw=true" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
   </a>
